@@ -47,27 +47,8 @@ Se utilizan datos socioeconómicos para comprender patrones, identificar factore
 
 ## 📸 Ejemplo de visualización
 
-A continuación se muestran algunas de las visualizaciones clave generadas durante el análisis:
+Se incluyo en el repostorio una carpeta con las principales imagenes del anális
 
----
-
-### 🔹 Gráfico Sankey – Rutas Migratorias Más Relevantes
-Visualización de flujos entre países de origen y destino de los estudiantes:
-![Sankey](images/sankey.png)
-
----
-
-### 🔹 Campos de Estudio por País de Destino
-Distribución de áreas académicas más populares según país:
-![Campos de estudio](images/campos_estudio.png)
-
----
-
-### 🔹 Proporción de Estudiantes con y sin Beca
-Distribución porcentual de estudiantes becados:
-![Proporción de becas](images/becas_proporcion.png)
-
----
 
 ### ✍ Autor
 Análisis realizado por: **Javier Reitano**  
